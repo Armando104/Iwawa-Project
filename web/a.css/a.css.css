@@ -1,0 +1,75 @@
+/* 
+    Document   : a.css
+    Created on : Dec 17, 2015, 9:21:30 AM
+    Author     : PREFERRED MICROF
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#main_div{
+
+    width: 98%;
+    height: auto;
+    background-color: white;
+    margin-top: -0px;
+    border: 2px solid #000000;
+}
+#title_h{
+    
+    width: 100%;
+    height: auto;
+    padding-top: 0px;
+    margin: 0px;
+    background-image: url("../a.imgs/title.jpg");
+    background-repeat: repeat-x;
+    color: white;
+}
+input{
+    border: 2px solid black;
+    height: 30px;
+}
+th{
+    width: auto;
+}
+#footer{
+
+    width: 100%;
+    height: 66px;
+    background: white;
+    
+}
+#content{
+
+    width: 100%;
+    height: 445px;
+    background: white;
+    
+}
+#top{
+
+    width: 100%;
+    height: 66px;
+    background: white;
+     
+}
+#header{
+
+    width: 100%;
+    height: 108px;
+    background: white;
+    
+}
+#logo{
+
+    width: 52%;
+    height: auto;
+     float: left;
+     border-right: 2px solid black;
+}
+#menus{
+
+    width: 40%;
+    height: auto;
+    
+    float: right;
+}
